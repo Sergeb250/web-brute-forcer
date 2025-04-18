@@ -104,7 +104,7 @@ Press Ctrl+C to stop
 ```
 
 ![Brute](https://github.com/Sergeb250/web-brute-forcer/blob/df0eb639bb305e8de8ca7e33d372e41aeaacc742/bruteImages/Screenshot%20(28).png)
-![Brute]()
+
 
 ## Professional Usage Guidelines
 
